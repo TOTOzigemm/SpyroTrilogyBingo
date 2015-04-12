@@ -78,7 +78,7 @@ bingoList[13] = [
   { name: "100% all 'Icy' levels", types: ["100%", "Icy Flight", "Icy Speedway", "Icy Peak"] },
   { name: "100% all 'Towers' levels", types: ["100%", "Haunted Towers", "Aquaria Towers", "Enchanted Towers"] },
   { name: "Achieve 10 Skill Points", types: ["skill point"] },
-  { name: "Collect 5 Keys as Spyro", types: ["key"] }
+  { name: "Unlock 5 Key Chests", types: ["key"] }
 ];
 // 
 bingoList[14] = [
@@ -147,7 +147,7 @@ bingoList[24] = [
   { name: "Achieve 15 Skill Points", types: ["skill point"] },
   { name: "100% 10 'Homeworld' levels", types: ["100%", "Artisans", "Peace Keepers", "Magic Crafters", "Beast Makers", "Dream Weavers", "Summer Forest", "Autumn Plains", "Winter Tundra", "Sunrise Springs", "Midday Gardens", "Evening Lake", "Midnight Mountain"] },
   { name: "Use 10 different super charge ramps in Spyro 1", types: ["Magic Crafters", "High Caves", "Wizard Peak", "Tree Tops"] },
-  { name: "Collect 10 Keys as Spyro", types: ["key"] }
+  { name: "Unlock 10 Key Chests", types: ["key"] }
 ];
 bingoList[25] = [
   { name: "Complete all Flights", types: ["100%", "Sunny Flight", "Night Flight", "Wild Flight", "Crystal Flight", "Icy Flight"] },
