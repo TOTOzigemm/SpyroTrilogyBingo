@@ -51,7 +51,7 @@ bingoList[8] = [
 ];
 bingoList[9] = [
   { name: "Collect 15 orbs/eggs from mingames/side areas", types: ["orbs", "eggs"] },
-  { name: "Collect 100 gems in every Sunrise Springs level", types: ["gems", "Sunrise Springs", "Sunny Villa", "Cloud Spires", "Sheila's Alp", "Molten Crater", "Seashell Shore", "Mushroom Speedway"] },
+  { name: "Collect 150 gems in every Sunrise Springs level", types: ["gems", "Sunrise Springs", "Sunny Villa", "Cloud Spires", "Sheila's Alp", "Molten Crater", "Seashell Shore", "Mushroom Speedway"] },
   { name: "Receive 4 Eggs from Hunter", types: ["eggs", "Hunter"] },
   { name: "Collect 225 gems in Frozen Altars", types: ["gems", "Frozen Altars"] }
 ];
