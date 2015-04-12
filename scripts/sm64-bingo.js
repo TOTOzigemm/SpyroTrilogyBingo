@@ -16,7 +16,7 @@ bingoList[3] = [
   { name: "Collect 150 gems in Seashell Shore", types: ["Spyro 3", "gems", "Seashell Shore"] },
   { name: "Collect all Eggs in Sunny Villa", types: ["Spyro 3", "eggs", "Sunny Villa"] },
   { name: "Collect 225 gems in Enchanted Towers", types: ["Spyro 3", "gems", "Enchanted Towers"] },
-  { name: "Collect 250 gems in Bamboo Terrace", types: ["gems", "Bamboo Terrace"] }
+  { name: "Collect 250 gems in Bamboo Terrace", types: ["Spyro 3", "gems", "Bamboo Terrace"] }
 ];
 bingoList[4] = [
   { name: "100% all 'Sunny levels'", types: ["Spyro 1", "Spyro 2", "Spyro 3", "100%", "Sunny Flight", "Sunny Beach", "Sunny Villa"] },
@@ -90,7 +90,7 @@ bingoList[14] = [
 bingoList[15] = [
   { name: "100% all Beast Makers levels", types: ["Spyro 1", "100%", "Beast Makers", "Terrace Village", "Wild Flight", "Misty Bog", "Tree Tops", "Metalhead"] },
   { name: "Get the Red Spring Chest", types: ["Spyro 1", "Lofty Castle"] },
-  { name: "Collect 300 gems in Lofty Castle", types: "Spyro 1", ["gems", "Lofty Castle"] },
+  { name: "Collect 300 gems in Lofty Castle", types: ["Spyro 1", "gems", "Lofty Castle"] },
   { name: "Save all 3 Dragons in Dream Weavers", types: ["Spyro 1", "dragons", "Dream Weavers"] }
 ];
 // 
@@ -139,7 +139,7 @@ bingoList[22] = [
 ];
 bingoList[23] = [
   { name: "Pay Money Bags 10 times", types: ["Spyro 2", "Spyro 3", "Money Bags"] },
-  { name: "Collect 300 gems in 2 Midnight Mountain levels", types: ["gems", "Spyro 3", "Midnight Mountain", "Agent 9's Lab", "Crystal Island", "Desert Ruin"] },
+  { name: "Collect 300 gems in 2 Midnight Mountain levels", types: ["Spyro 3", "gems", "Midnight Mountain", "Agent 9's Lab", "Crystal Island", "Desert Ruin"] },
   { name: "Collect 50 named eggs", types: ["Spyro 3", "eggs"]}
   { name: "Collect all named Homeworld Eggs (except Money Bags)", types: ["Spyro 3", "eggs", "Sunrise Springs", "Midday Gardens", "Evening Lake", "Midnight Mountain"] },
 ];
